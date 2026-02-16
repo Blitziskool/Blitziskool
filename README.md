@@ -20,8 +20,6 @@ My goal is to combine physics + programming to build powerful simulations and re
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Libraries
@@ -38,17 +36,3 @@ My goal is to combine physics + programming to build powerful simulations and re
   <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
----
