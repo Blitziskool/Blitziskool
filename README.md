@@ -2,7 +2,8 @@
 ### High School Student | Physics & Python Developer
 
 ---
-(tux)[https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif]
+
+![tux-linux-penguin](https://github.com/user-attachments/assets/70623110-c677-490e-88bb-af7ec52f9264)
 
 ## 🚀 About Me
 
