@@ -2,6 +2,7 @@
 ### High School Student | Physics & Python Developer
 
 ---
+(tux)[https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif]
 
 ## 🚀 About Me
 
@@ -40,14 +41,4 @@ My goal is to combine physics + programming to build powerful simulations and re
 ---
 
 ## 💻 Connect With Me 
-<p align="center">
-  <a href="mailto:jamespestrichello@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/james-pestrichello-1570ba3ab/">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
-  </a>
-  <a href="https://www.instagram.com/james.pestrichello/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-</p>
+
