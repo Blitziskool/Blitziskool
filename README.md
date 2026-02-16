@@ -40,4 +40,4 @@ My goal is to combine physics + programming to build powerful simulations and re
 ---
 
 ## 💻 Connect With Me 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/527690895143862276)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/527690895143862276)
