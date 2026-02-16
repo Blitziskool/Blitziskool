@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src=![tux-linux-penguin](https://github.com/user-attachments/assets/70623110-c677-490e-88bb-af7ec52f9264)>
+  <img src="https://media.tenor.com/NeJfHqkmdMIAAAAj/tux-linux-penguin.gif">
 </p>
 
 ## 🚀 About Me
