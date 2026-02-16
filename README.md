@@ -40,8 +40,6 @@ My goal is to combine physics + programming to build powerful simulations and re
 ---
 
 ## 💻 Connect With Me 
-## 📫 Contact Me
-
 <p align="center">
   <a href="mailto:jamespestrichello@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
