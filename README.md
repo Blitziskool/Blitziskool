@@ -50,7 +50,7 @@ My goal is to combine physics + programming to build powerful simulations and re
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
     <a href="https://discordapp.com/users/527690895143862276">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" />
   </a>
 </p>
 
