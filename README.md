@@ -19,7 +19,6 @@ My goal is to combine physics + programming to build powerful simulations and re
 
 ## 🧠 Current Projects
 
-- Projectile Motion Model
 
 ---
 
